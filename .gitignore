@@ -1,0 +1,14 @@
+# Datasets & ZIP files (kept locally)
+datasets/
+*.zip
+
+# Python & Environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
